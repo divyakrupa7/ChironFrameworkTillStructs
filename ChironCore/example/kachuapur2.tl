@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 :cnt = 0
 :i = 0
 repeat :steps [
@@ -6,3 +7,13 @@ repeat :steps [
   forward(1 + :cnt)
   right(:radius)
 ]
+=======
+:cnt = 0
+:i = 0
+repeat :steps [
+  :i = :cnt + :i
+  :cnt = :cnt + 1   
+  forward(1 + :cnt)
+  right(:radius)
+]
+>>>>>>> origin/main

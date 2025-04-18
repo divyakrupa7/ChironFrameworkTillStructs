@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Program Analysis with Chiron
 
 A framework to teach program analysis, verification, and testing in a graduate-level course.
@@ -133,3 +134,6 @@ options:
                         To display computation to Console
 
 ```
+=======
+# ChironFrameworkTillStructs
+>>>>>>> origin/main
